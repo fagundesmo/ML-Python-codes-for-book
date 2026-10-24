@@ -28,4 +28,4 @@ If you ask for more datasets for the same chapter, they go in the same subfolder
 
 | Chapter | Topic you asked for | Clean dataset | Messy dataset | Status |
 |---|---|---|---|---|
-| | | | | |
+| 03 Classification | Market direction | `Smarket` (ISLP, S&P 500 2001–05) | S&P 500 OHLCV (`arch`) + VIX (datahub), 1999–2018 | Answers ready, waiting for your attempt |
